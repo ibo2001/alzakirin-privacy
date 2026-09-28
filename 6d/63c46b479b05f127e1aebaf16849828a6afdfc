@@ -1,0 +1,21 @@
+README.md
+  s_ae36e75ba64f9b::t_e75b065fa00645 1-5
+index.html
+  s_ae36e75ba64f9b::t_5f8c33de9868cb 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6d63c46b479b05f127e1aebaf16849828a6afdfc",
+  "prompts": {},
+  "sessions": {
+    "s_ae36e75ba64f9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f12777b0-f782-47c8-8e6c-f37c416e8aec",
+        "model": "unknown"
+      },
+      "human_author": "Ibrahim Qraiqe <ibo2001@gmail.com>"
+    }
+  }
+}
